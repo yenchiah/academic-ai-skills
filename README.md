@@ -1,3 +1,3 @@
-# Paper Summarize Skill
+# AI Skills for Academic Tasks
 
-This is a skill document for a GenAI agent (e.g., Claude) to summarize academic papers
+This is a list of skill documents for GenAI for academic tasks.
